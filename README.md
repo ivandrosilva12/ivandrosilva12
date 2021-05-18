@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivandrosilva12
-- 👀 I’m interested in Django, NodeJs, React and React Native
+- 👀 I’m interested in Django, NodeJs, React, React Native and NextJs
 - 🌱 I’m currently improving my Django Knowledge
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 You can reach me sending an e-mail to ivandrosilva@gmail.com
